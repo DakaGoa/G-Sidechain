@@ -77,3 +77,11 @@ Runs the analyzer and the full plugin on a synthetic kick + bass loop (detection
 | `Source/PluginProcessor.*` | Parameters, presets, buses, capture, state |
 | `Source/PluginEditor.*` | UI and look-and-feel |
 | `Tests/TestMain.cpp` | Self-test |
+
+## License
+
+G-SideChain is free and open source under the [GNU Affero General Public License v3.0](LICENSE) (AGPLv3).
+You can use, modify and share it, including commercially. If you distribute a modified version,
+publish its source under AGPLv3 as well. Music you make with the plugin is yours; the license only covers the plugin's code.
+
+Built with [JUCE](https://juce.com), used under its AGPLv3 option.
